@@ -1,0 +1,2 @@
+apply vmme001-data-0 agwSgsnSd sdControl showContextStats
+apply vmme001-data-1 agwSgsnSd sdControl showContextStats

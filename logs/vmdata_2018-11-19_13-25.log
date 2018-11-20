@@ -1,0 +1,22 @@
+Applying 'sdControl showContextStats' to vmme001-data-0/3160.
+ sdControl showContextStats
+dest: 169.254.101.130   proc: 3160   time: Wed Nov 14 09:14:26 2018
+rtn:  sdControl showContextStats
+
+2G: Mobile Context Count from container:  0  Current Mobile context count: 0 Current Session context count: 0
+3G: Current Session context count: 0
+Common session:  Session container size: 0  session container max size: 778240  SD load: 30
+
+
+
+Applying 'sdControl showContextStats' to vmme001-data-0/3232.
+ sdControl showContextStats
+dest: 169.254.101.130   proc: 3232   time: Wed Nov 14 09:14:28 2018
+rtn:  sdControl showContextStats
+
+2G: Mobile Context Count from container:  0  Current Mobile context count: 0 Current Session context count: 0
+3G: Current Session context count: 0
+Common session:  Session container size: 0  session container max size: 778240  SD load: 0
+
+
+
